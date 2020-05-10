@@ -23,3 +23,9 @@
 ## Books
 - [ ] Designing Data-Intensive Applications, Martin Kleppmann
 - [ ] Clean Architecture: A Craftsman's Guide to Software Structure and Design, [Uncle Bob's blog](http://www.cleancoder.com/products)
+
+## References
+- [100 Most Influential Books According to Stack Overflow](https://cspray.io/my.so-archive/100-most-influential-programming-books.html)
+- [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
+- [phodal: booktree](https://github.com/phodal/booktree)
+- [phodal: growth](https://github.com/phodal/growth)
